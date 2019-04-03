@@ -1805,6 +1805,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rmCQ2LVXrX {
+  background: #108070;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rmCQ2LVXrX .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rmCQ2LVXrX .video-block {
+    width: 100% !important;
+  }
+}
 .cid-reZ9xpYzca {
   background: #ffffff;
 }
